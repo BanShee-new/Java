@@ -1,0 +1,72 @@
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [5, 8, 3, 4, 4, 1, 2]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [5, 3, 8, 4, 4, 1, 2]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [5, 3, 4, 8, 4, 1, 2]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [5, 3, 4, 4, 8, 1, 2]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [5, 3, 4, 4, 1, 8, 2]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [5, 3, 4, 4, 1, 2, 8]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [3, 5, 4, 4, 1, 2, 8]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [3, 4, 5, 4, 1, 2, 8]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [3, 4, 4, 5, 1, 2, 8]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [3, 4, 4, 1, 5, 2, 8]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [3, 4, 4, 1, 2, 5, 8]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [3, 4, 4, 1, 2, 5, 8]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [3, 4, 4, 1, 2, 5, 8]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [3, 4, 4, 1, 2, 5, 8]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [3, 4, 1, 4, 2, 5, 8]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [3, 4, 1, 2, 4, 5, 8]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [3, 4, 1, 2, 4, 5, 8]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [3, 4, 1, 2, 4, 5, 8]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [3, 4, 1, 2, 4, 5, 8]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [3, 1, 4, 2, 4, 5, 8]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [3, 1, 2, 4, 4, 5, 8]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [3, 1, 2, 4, 4, 5, 8]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [3, 1, 2, 4, 4, 5, 8]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [3, 1, 2, 4, 4, 5, 8]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [1, 3, 2, 4, 4, 5, 8]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [1, 2, 3, 4, 4, 5, 8]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [1, 2, 3, 4, 4, 5, 8]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [1, 2, 3, 4, 4, 5, 8]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [1, 2, 3, 4, 4, 5, 8]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [1, 2, 3, 4, 4, 5, 8]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [1, 2, 3, 4, 4, 5, 8]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [1, 2, 3, 4, 4, 5, 8]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [1, 2, 3, 4, 4, 5, 8]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [1, 2, 3, 4, 4, 5, 8]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [1, 2, 3, 4, 4, 5, 8]
+февр. 18, 2023 11:07:07 AM HomeWork_2.task1 main
+INFO: [1, 2, 3, 4, 4, 5, 8]
