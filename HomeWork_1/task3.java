@@ -63,3 +63,5 @@ public class task3 {
         return result;
     }
 }
+
+// Без замечаний.
